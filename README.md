@@ -1,4 +1,3 @@
-#grvchanr.github.io
 
 # Senior Year
 
