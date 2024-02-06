@@ -5,16 +5,16 @@
 ### Education
 Grade 12
 Courses:
--Physics
--Chemistry
--Math
--English
--Hindi
+- Physics
+- Chemistry
+- Math
+- English
+- Hindi
 
 ### Skills
--Linux
--Debugging
+- Linux
+- Debugging
 
 ### Hobbies
--Music
--Sitting by the river
+- Music
+- Sitting by the river
