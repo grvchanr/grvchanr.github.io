@@ -1,5 +1,5 @@
 
-# Senior Year
+# Gap Year
 
 ### Education
 Grade 12
@@ -13,7 +13,10 @@ Courses:
 ### Skills
 - Linux
 - Debugging
+- Video editing
+- Photo editing
 
 ### Hobbies
+- Weight training
 - Music
 - Sitting by the river
